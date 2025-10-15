@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "为什么所有中国人都感觉很累？"
-subtitle: "Why do every chinese people feel exhausted"
+subtitle: "Why does every chinese people feel exhausted"
 date: 2025-10-15
 author: None
 category:  Opinion
