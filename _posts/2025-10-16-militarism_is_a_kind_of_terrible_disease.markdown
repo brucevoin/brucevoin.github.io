@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "战争与和平"
+title: "军国主义是一种民族疾病"
 subtitle: "Militarism is a kind of terrible disease"
 date: 2025-10-16
 author: None
