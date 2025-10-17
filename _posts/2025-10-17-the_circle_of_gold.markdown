@@ -5,7 +5,7 @@ subtitle: "The Cyclical Nature of Gold and Paper Currency "
 date: 2025-10-17
 author: None
 category:  Opinion
-tags: world
+tags: investment
 finished: true
 ---
 
